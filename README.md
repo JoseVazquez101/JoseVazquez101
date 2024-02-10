@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <div style="text-align:center">
-    <img src="https://i.imgur.com/N0uWaog.png" alt="GIF">
+    <img src="https://i.imgur.com/N0uWaog.png" alt="GIF" style="width: 30%; height: auto;">
 </div>
 
