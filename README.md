@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 ***
 <div style="text-align:center">
-    <img src="https://i.imgur.com/N0uWaog.png" alt="GIF" style="width: 10%; height: auto;">
+    <img src="https://i.imgur.com/N0uWaog.png" alt="GIF" style="width: 20%; height: auto;">
 </div>
 
-    - AKA: Retr0 💀
+- AKA: | Retr0 💀 |
 
 ***
 
