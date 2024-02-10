@@ -1,4 +1,4 @@
-### Hi there 👋
+### He110 w0r1d 🐱‍💻
 
 <!--
 **JoseVazquez101/JoseVazquez101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div style="text-align:center">
+    <img src="https://i.imgur.com/N0uWaog.png" alt="GIF">
+</div>
+
