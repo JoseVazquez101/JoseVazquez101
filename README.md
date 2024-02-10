@@ -20,7 +20,9 @@ Hacker progress: `1_y34r` ----> <img src="https://cdn.pixabay.com/animation/2022
 - <img src="https://github.com/JoseVazquez101/JoseVazquez101/assets/111292579/df250449-03a7-4de0-a22e-4bc01f4508dc" width="25px"> Linux <3
 - 3 years of freelance experience in the area of ​​networks and technology 🤖
 
-***
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <h3>My_Rep0ss 📦</h3>
 
@@ -29,7 +31,10 @@ Hacker progress: `1_y34r` ----> <img src="https://cdn.pixabay.com/animation/2022
 - How to vuln a binary with [buffer overflow](https://github.com/JoseVazquez101/Buffer-Overflow-from-32-bit-binary) in a 32-bits Windows architecture.
 - [O.O.P](https://github.com/JoseVazquez101/P.O.O-Course_2024) in Java course (-_-).
 
-***
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 <h3>Pr0gramming Langu4j3s 🧩</h3>
 
 - Bash <img src="https://github.com/JoseVazquez101/JoseVazquez101/assets/111292579/efc32107-2e01-4c67-8492-8868eb5012fc" width="25px" style="margin-left: 10px;"> ---------> ⭐⭐⭐⭐⭐
@@ -39,7 +44,9 @@ Hacker progress: `1_y34r` ----> <img src="https://cdn.pixabay.com/animation/2022
 - Assembly <img src="https://github.com/JoseVazquez101/JoseVazquez101/assets/111292579/b886ad61-a094-4e43-8f1e-67d2642d85b8" width="25px" style="margin-left: 10px;"> -----> ⭐⭐
 - Powershell <img src="https://github.com/JoseVazquez101/JoseVazquez101/assets/111292579/df304e8b-801a-41eb-a6d7-1dcb0a91a736" width="25px" style="margin-left: 10px;"> ----> ⭐
 
-***
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <h3>C0nt4ct 🔍... </h3>
 
@@ -47,7 +54,10 @@ Hacker progress: `1_y34r` ----> <img src="https://cdn.pixabay.com/animation/2022
 - HackerOne [🎯](https://hackerone.com/retr0__1000101?type=user)
 - Hackthebox [🕹️](https://app.hackthebox.com/users/1166459)
 - Tryhackme[⚔️](https://tryhackme.com/p/Retr0101001)
-***
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a2f7c9d8-a913-4273-847f-705be41395df/dajesob-4f15a65b-cbd2-48e5-a2e0-22ada7fa5115.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2EyZjdjOWQ4LWE5MTMtNDI3My04NDdmLTcwNWJlNDEzOTVkZlwvZGFqZXNvYi00ZjE1YTY1Yi1jYmQyLTQ4ZTUtYTJlMC0yMmFkYTdmYTUxMTUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0._k_6Hhpnm3cwRZXwuDrl3hsfSaYZfjU13Xr5g-55qQ8" alt="GIF" width="25px"> 
 
