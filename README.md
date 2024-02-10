@@ -9,7 +9,7 @@
 
 ***
 
-Hacker progress: 1 y34r <img src="https://github.com/JoseVazquez101/JoseVazquez101/assets/111292579/4714c50a-cda3-401c-9d11-88740b48c03c" alt="GIF" width="100px">
+Hacker progress: 1 y34r <img src="https://github.com/JoseVazquez101/JoseVazquez101/assets/111292579/2302e157-876d-46a0-aa5b-3645223377c7" alt="GIF" width="100px">
 
 - I like to play CTFs and try to break stuff 4 fun
 - 3 years of freelance experience in the area of ​​networks and technology 🤖
