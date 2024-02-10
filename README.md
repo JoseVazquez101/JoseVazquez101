@@ -14,7 +14,7 @@ Remember...
 Hacker progress: `1_y34r` ----> <img src="https://cdn.pixabay.com/animation/2022/12/26/19/45/19-45-46-138_512.gif" alt="GIF" width="80px">
 
 - I like to play CTFs and try to break stuff 4 fun
-- <3 Linux  <img src="https://github.com/JoseVazquez101/JoseVazquez101/assets/111292579/df250449-03a7-4de0-a22e-4bc01f4508dc" width="25px">
+- <img src="https://github.com/JoseVazquez101/JoseVazquez101/assets/111292579/df250449-03a7-4de0-a22e-4bc01f4508dc" width="25px"> Linux <3
 - 3 years of freelance experience in the area of ​​networks and technology 🤖
 
 ***
