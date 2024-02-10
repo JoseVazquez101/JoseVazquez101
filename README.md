@@ -1,19 +1,5 @@
 # He110 w0r1d 🐱‍💻
 
-<!--
-**JoseVazquez101/JoseVazquez101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ***
 <div style="text-align:center">
     <img src="https://i.imgur.com/N0uWaog.png" alt="GIF" style="width: 20%; height: auto;">
@@ -32,7 +18,7 @@ Hacker progress: ||||| 1 y34r ||||
 
 - Some [wr1tt3ups](https://github.com/JoseVazquez101/Writteups) from different CTF plattforms.
 - A lot of [stuff scripts](https://github.com/JoseVazquez101/My-scr1pt5) that I made for different things.
-- How to vuln a binary with [buffer overflow] in a 32-bits Windows architecture.
+- How to vuln a binary with [buffer overflow](https://github.com/JoseVazquez101/Buffer-Overflow-from-32-bit-binary) in a 32-bits Windows architecture.
 - [O.O.P](https://github.com/JoseVazquez101/P.O.O-Course_2024) in Java course (-_-).
 
 ***
