@@ -1,8 +1,10 @@
 # He110 w0r1d 🐱‍💻
 
 ***
+Remember...
+
 <div style="text-align:center">
-    <img src="https://i.imgur.com/N0uWaog.png" alt="GIF" style="width: 20%; height: auto;">
+    <img src="https://i.imgur.com/N0uWaog.png" alt="GIF" style="width: 15%; height: auto;">
 </div>
 
 - AKA: | Retr0 💀 |
