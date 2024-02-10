@@ -14,7 +14,10 @@ Remember...
 Hacker progress: `1_y34r` ----> <img src="https://cdn.pixabay.com/animation/2022/12/26/19/45/19-45-46-138_512.gif" alt="GIF" width="80px">
 
 - I like to play CTFs and try to break stuff 4 fun
+- <3 Linux <img src="https://github.com/JoseVazquez101/JoseVazquez101/assets/111292579/df250449-03a7-4de0-a22e-4bc01f4508dc" width="25px">
 - 3 years of freelance experience in the area of ​​networks and technology 🤖
+
+***
 
 <h3>My_Rep0ss 📦</h3>
 
@@ -24,6 +27,17 @@ Hacker progress: `1_y34r` ----> <img src="https://cdn.pixabay.com/animation/2022
 - [O.O.P](https://github.com/JoseVazquez101/P.O.O-Course_2024) in Java course (-_-).
 
 ***
+<h3>Pr0gramming Langu4j3s 🧩</h3>
+
+- Bash <img src="https://github.com/JoseVazquez101/JoseVazquez101/assets/111292579/efc32107-2e01-4c67-8492-8868eb5012fc" width="25px"> ---> ⭐⭐⭐⭐⭐
+- Python <img src="https://github.com/JoseVazquez101/JoseVazquez101/assets/111292579/7b3e75ad-5ee5-4414-b8a9-067230970585" width="25px"> ---> ⭐⭐⭐⭐
+- C <img src="https://github.com/JoseVazquez101/JoseVazquez101/assets/111292579/13a450bc-18ba-47c9-8e38-35ee4078c33a" width="25px"> ---> ⭐⭐⭐
+- Java <img src="https://github.com/JoseVazquez101/JoseVazquez101/assets/111292579/058c7159-e988-4c19-a551-cdabd2f1b92f" width="25px"> ---> ⭐⭐
+- Assembly <img src="https://github.com/JoseVazquez101/JoseVazquez101/assets/111292579/b886ad61-a094-4e43-8f1e-67d2642d85b8" width="25px"> ---> ⭐⭐
+- Powershell <img src="https://github.com/JoseVazquez101/JoseVazquez101/assets/111292579/df304e8b-801a-41eb-a6d7-1dcb0a91a736" width="25px"> ---> ⭐
+
+***
+
 <h3>C0nt4ct 🔍... </h3>
 
 - Linkedln [❎](https://www.linkedin.com/in/jos%C3%A9-manuel-rodriguez-vazquez-88bb07268/)
