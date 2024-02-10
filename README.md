@@ -10,7 +10,9 @@ Remember...
 
 - AKA: | Retr0 💀 |
 
-***
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 Hacker progress: `1_y34r` ----> <img src="https://cdn.pixabay.com/animation/2022/12/26/19/45/19-45-46-138_512.gif" alt="GIF" width="80px">
 
