@@ -30,5 +30,5 @@ Hacker progress: 1 y34r <img src="https://github.com/JoseVazquez101/JoseVazquez1
 - Tryhackme[⚔️](https://tryhackme.com/p/Retr0101001)
 ***
 
-`RETR0{0UR_D3M0CR4CY_H45_B33N_PWN3D}`
+<img src="https://github.com/JoseVazquez101/JoseVazquez101/assets/111292579/25e74b8b-b3c9-4eca-912e-3e4045580f17" alt="GIF" width="25px"> `RETR0{0UR_D3M0CR4CY_H45_B33N_PWN3D}` <img src="https://github.com/JoseVazquez101/JoseVazquez101/assets/111292579/25e74b8b-b3c9-4eca-912e-3e4045580f17" alt="GIF" width="25px">
 
