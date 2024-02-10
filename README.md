@@ -27,10 +27,10 @@ Hacker progress: ||||| 1 y34r ||||
 - 3 years of freelance experience in the area of ​​networks and technology 🤖
 
 <h3>My_Rep0ss 📦</h3>
-- Some [wr1tt3ups](https://github.com/JoseVazquez101/Writteups) from different CTF plattforms
-- A lot of [stuff scripts](https://github.com/JoseVazquez101/My-scr1pt5) that I made for different things
-- How to vuln a binary with [buffer overflow] in a 32-bits Windows architecture 
-- [O.O.P](https://github.com/JoseVazquez101/P.O.O-Course_2024) in Java course (-_-)
+- Some [wr1tt3ups](https://github.com/JoseVazquez101/Writteups) from different CTF plattforms.
+- A lot of [stuff scripts](https://github.com/JoseVazquez101/My-scr1pt5) that I made for different things.
+- How to vuln a binary with [buffer overflow] in a 32-bits Windows architecture.
+- [O.O.P](https://github.com/JoseVazquez101/P.O.O-Course_2024) in Java course (-_-).
 
 ***
 <h3>C0nt4ct 🔍... </h3>
