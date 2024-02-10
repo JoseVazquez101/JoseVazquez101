@@ -23,8 +23,10 @@ Hacker progress: `1_y34r` ----> <img src="https://cdn.pixabay.com/animation/2022
 - <img src="https://github.com/JoseVazquez101/JoseVazquez101/assets/111292579/df250449-03a7-4de0-a22e-4bc01f4508dc" width="25px"> Linux <3
 - 3 years of freelance experience in the area of ​​networks and technology 🤖
 
-***
+<br><br>
 
+***
+<br><br>
 
 <h3>My_Rep0ss 📦</h3>
 
@@ -33,8 +35,10 @@ Hacker progress: `1_y34r` ----> <img src="https://cdn.pixabay.com/animation/2022
 - How to vuln a binary with [buffer overflow](https://github.com/JoseVazquez101/Buffer-Overflow-from-32-bit-binary) in a 32-bits Windows architecture.
 - [O.O.P](https://github.com/JoseVazquez101/P.O.O-Course_2024) in Java course (-_-).
 
+<br><br>
 
 ***
+<br><br>
 
 <h3>Pr0gramming Langu4j3s 🧩</h3>
 
@@ -46,8 +50,10 @@ Hacker progress: `1_y34r` ----> <img src="https://cdn.pixabay.com/animation/2022
 - Assembly <img src="https://github.com/JoseVazquez101/JoseVazquez101/assets/111292579/b886ad61-a094-4e43-8f1e-67d2642d85b8" width="25px" style="margin-left: 10px;"> -----> ⭐⭐
 - Powershell <img src="https://github.com/JoseVazquez101/JoseVazquez101/assets/111292579/df304e8b-801a-41eb-a6d7-1dcb0a91a736" width="25px" style="margin-left: 10px;"> ----> ⭐
 
+<br><br>
 
 ***
+<br><br>
 
 <h3>C0nt4ct 🔍... </h3>
 
