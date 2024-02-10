@@ -1,4 +1,4 @@
-# <h1 align="center"><b>Hi , H3ll0 w0r1d </b>🐱‍💻</h1>
+# <h1 align="center"><b>H3ll0 w0r1d </b>🐱‍💻</h1>
 
 
 ***
