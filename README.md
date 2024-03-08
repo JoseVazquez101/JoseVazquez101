@@ -33,7 +33,7 @@ Hacker progress: `1_y34r` ----> <img src="https://cdn.pixabay.com/animation/2022
 - A lot of [stuff scripts](https://github.com/JoseVazquez101/My-scr1pt5) that I made for different things.
 - How to vuln a binary with [buffer overflow](https://github.com/JoseVazquez101/Buffer-Overflow-from-32-bit-binary) in a 32-bits Windows architecture.
 - [O.O.P](https://github.com/JoseVazquez101/P.O.O-Course_2024) in Java course (-_-).}
-- An automated [SQL injection 💉](https://github.com/JoseVazquez101/Auto-SQL-injection/tree/main) program which contains time-based and boolean-based attacks
+- An automated [SQL injection 💉](https://github.com/JoseVazquez101/Auto-SQL-injection) program which contains time-based and boolean-based attacks
 
 <br><br>
 
