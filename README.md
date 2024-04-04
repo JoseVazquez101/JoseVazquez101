@@ -34,6 +34,7 @@ Hacker progress: `1_y34r` ----> <img src="https://cdn.pixabay.com/animation/2022
 - How to vuln a binary with [buffer overflow](https://github.com/JoseVazquez101/Buffer-Overflow-from-32-bit-binary) in a 32-bits Windows architecture.
 - [O.O.P](https://github.com/JoseVazquez101/P.O.O-Course_2024) in Java course (-_-).}
 - An automated [SQL injection 💉](https://github.com/JoseVazquez101/Auto-SQL-injection) program which contains time-based and boolean-based attacks
+- Semi-Automated [LDAP injection 💉](https://github.com/JoseVazquez101/Kil-DAP.-LDAP-injection/tree/main) programed in Python and using a short bash script.
 
 <br><br>
 
