@@ -48,8 +48,8 @@ class Hacker:
 | 🐧 Bash     | ⭐⭐⭐⭐⭐       |
 | 🐍 Python   | ⭐⭐⭐⭐        |
 | 🔧 C        | ⭐⭐⭐         |
-| ☕ Java     | ⭐⭐           |
-| 🔍 Assembly | ⭐⭐           |
+| 🔍 Assembly     | ⭐⭐⭐          |
+| ☕ Java | ⭐⭐           |
 | 💻 PowerShell| ⭐             |
 
 </div>
