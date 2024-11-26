@@ -2,7 +2,7 @@
   <b>⚡ R3TR0_1000101 ⚡</b>
 </h1>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://i.pinimg.com/originals/45/92/64/45926407d771ede425af70370b8bd99f.gif">
 </div>
 <div align="center">
   <img src="![image](https://github.com/user-attachments/assets/45476ef2-17db-4bae-a5b5-f17c82369705)
