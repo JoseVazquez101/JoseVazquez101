@@ -1,15 +1,12 @@
 <h1 align="center">
   <b>⚡ R3TR0_1000101 ⚡</b>
 </h1>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="200px">
+  <img src="https://i.pinimg.com/originals/45/92/64/45926407d771ede425af70370b8bd99f.gif" width="400px">
 </div>
-
 <h2 align="center">💀 Cybersecurity Enthusiast | CTF Player | Code Breaker 💀</h2>
 
 ### 👾 About Me
